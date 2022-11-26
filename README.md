@@ -22,7 +22,7 @@ Documentation is at [docs/guide/README.md](docs/guide/README.md).
 [![build](https://github.com/yiisoft/yii2-app-advanced/workflows/build/badge.svg)](https://github.com/yiisoft/yii2-app-advanced/actions?query=workflow%3Abuild)
 
 DIRECTORY STRUCTURE
--------------------
+--------------------
 
 ```
 common
